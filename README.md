@@ -1,4 +1,5 @@
-⚡ Genshin MiniRAG — Offline AI Assistant\n
+⚡ Genshin MiniRAG — Offline AI Assistant
+
 Genshin MiniRAG is an offline, privacy-focused AI assistant designed specifically for Genshin Impact players. Built with a lightweight architecture, it allows users to ask questions about gameplay, lore, characters, and more — all without any internet connection or cloud dependency.
 
 <div align="center"> <img src="https://i.pinimg.com/736x/6c/2b/d1/6c2bd1e5f7ee3a7dcc8a039c7d9450f8.jpg" alt="Genshin Map" width="300" /> </div>
