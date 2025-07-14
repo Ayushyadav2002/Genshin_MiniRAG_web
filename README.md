@@ -1,4 +1,4 @@
-⚡ Genshin MiniRAG — Offline AI Assistant
+⚡ Genshin MiniRAG — Offline AI Assistant\n
 Genshin MiniRAG is an offline, privacy-focused AI assistant designed specifically for Genshin Impact players. Built with a lightweight architecture, it allows users to ask questions about gameplay, lore, characters, and more — all without any internet connection or cloud dependency.
 
 <div align="center"> <img src="https://i.pinimg.com/736x/6c/2b/d1/6c2bd1e5f7ee3a7dcc8a039c7d9450f8.jpg" alt="Genshin Map" width="300" /> </div>
@@ -31,25 +31,6 @@ Python 3.10+
 At least 4 GB RAM (8 GB recommended)
 
 (Optional) GPU for faster inference
-
-bash
-Copy
-Edit
-# Clone backend (main AI logic)
-git clone https://github.com/Akki-Maharaj/Genshin-MiniRAG-Offline-Assistant-with-Local-LLM.git
-cd Genshin-MiniRAG-Offline-Assistant-with-Local-LLM
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start the backend server
-python app.py
-bash
-Copy
-Edit
-# Clone frontend (this repo)
-git clone https://github.com/Ayushyadav2002/Genshin_MiniRAG_web.git
-cd Genshin_MiniRAG_web
 
 # Open index.html in your browser
 📌 Roadmap
