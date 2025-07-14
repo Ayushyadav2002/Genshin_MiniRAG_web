@@ -33,7 +33,6 @@ At least 4 GB RAM (8 GB recommended)
 
 (Optional) GPU for faster inference
 
-# Open index.html in your browser
 📌 Roadmap
  Support larger quantized models
 
